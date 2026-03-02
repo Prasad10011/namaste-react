@@ -1,0 +1,1 @@
+export const LOGO_URL ="https://img.freepik.com/premium-vector/food-order-logo-design-vector_739167-35.jpg";

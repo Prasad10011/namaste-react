@@ -1,0 +1,139 @@
+@import "tailwindcss";
+
+/* .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+}
+
+.logo {
+  width: 200px;
+  height: 120px;
+}
+
+.nav-items {
+  padding: 0 20px;
+}
+
+.nav-items ul {
+  display: flex;
+  list-style-type: none;
+  font-size: 24px;
+}
+
+.nav-items ul li {
+  padding: 0 10px;
+  margin: 10px;
+}
+
+.res-card {
+  width: 200px;
+  height: 300px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.res-card:hover {
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.search {
+  padding: 10px;
+}
+
+.res-logo {
+  width: 100%;
+}
+
+.res-container {
+  display: flex;
+}
+
+.filter {
+  display: flex;
+}
+.filter-btn {
+  padding: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.shimmer-container {
+  display: flex;
+}
+
+.shimmer-card {
+  width: 250px;
+  padding: 16px;
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.login {
+  background-color: rgb(100, 173, 100);
+  color: aliceblue;
+  padding: 4px 10px;
+  margin: 3px;
+  border: none;
+  border-radius: 20%;
+}
+.logout {
+  background-color: red;
+  color: aliceblue;
+  padding: 4px 10px;
+  margin: 3px;
+  border: none;
+  border-radius: 20%;
+}
+
+
+@keyframes shimmer {
+  0% {
+    background-position: -450px 0;
+  }
+  100% {
+    background-position: 450px 0;
+  }
+}
+
+.shimmer-img,
+.shimmer-line {
+  background: #f6f7f8;
+  background-image: linear-gradient(
+    to right,
+    #f6f7f8 0%,
+    #eaeaea 20%,
+    #f6f7f8 40%,
+    #f6f7f8 100%
+  );
+  background-repeat: no-repeat;
+  background-size: 800px 104px;
+  display: block;
+  position: relative;
+  animation: shimmer 1.2s infinite linear;
+  border-radius: 6px;
+}
+
+.shimmer-img {
+  width: 100%;
+  height: 150px;
+  margin-bottom: 12px;
+}
+
+.shimmer-line {
+  height: 12px;
+  margin-bottom: 8px;
+}
+
+.shimmer-line.short {
+  width: 60%;
+}
+
+.user-card{
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+} */
